@@ -19,7 +19,7 @@
           "url": "http://download.labs.mediatek.com/mediatek_linkit_sdk_(for_arduino_1.6)-1.1.21.zip",
           "archiveFileName": "mediatek_linkit_sdk_(for_arduino_1.6)-1.1.21.zip",
           "checksum": "SHA-256:ef443a51bcd1ed830d44331b5ca444af5e0297b6664b61467765ee4d223cb626",
-          "size": "750344"
+          "size": "750344",
           "boards": [
             {"name": "LinkIt ONE"}
           ],
